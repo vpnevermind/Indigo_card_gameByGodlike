@@ -1,0 +1,60 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Indigo Card Game/*
+!/Indigo Card Game/task/
+/Indigo Card Game/task/*
+!/Indigo Card Game/task/src
+
+# Project exclude paths
+/Topics/Avoiding NPEs. Null safety/Elvis throwing exceptions/out/
+/Topics/Avoiding NPEs. Null safety/Elvis throwing exceptions/out/production/classes/
+/Topics/Call stack/Follow the call stack/out/
+/Topics/Call stack/Follow the call stack/out/production/classes/
+/Topics/Constructors/Pets/out/
+/Topics/Constructors/Pets/out/production/classes/
+/Topics/Data class/copy() usage/out/
+/Topics/Data class/copy() usage/out/production/classes/
+/Topics/Data class/We are students/out/
+/Topics/Data class/We are students/out/production/classes/
+/Topics/Data types/Fix the program/out/
+/Topics/Data types/Fix the program/out/production/classes/
+/Topics/Declaring classes/Create a Book object and return its description/out/
+/Topics/Declaring classes/Create a Book object and return its description/out/production/classes/
+/Topics/Enum/Danger level/out/
+/Topics/Enum/Danger level/out/production/classes/
+/Topics/Enum/Days of the week/out/
+/Topics/Enum/Days of the week/out/production/classes/
+/Topics/Enum/The rainbow order/out/
+/Topics/Enum/The rainbow order/out/production/classes/
+/Topics/Functional decomposition/Decompose a math function/out/
+/Topics/Functional decomposition/Decompose a math function/out/production/classes/
+/Topics/Member functions/Arithmetic operations/out/
+/Topics/Member functions/Arithmetic operations/out/production/classes/
+/Topics/Named arguments/Deposit/out/
+/Topics/Named arguments/Deposit/out/production/classes/
+/Topics/Named arguments/Perimeter/out/
+/Topics/Named arguments/Perimeter/out/production/classes/
+/Topics/Property accessors/Implement a class/out/
+/Topics/Property accessors/Implement a class/out/production/classes/
+/Topics/Scopes/Cyclist/out/
+/Topics/Scopes/Cyclist/out/production/classes/
+/Topics/Secondary constructor/Barista problem/out/
+/Topics/Secondary constructor/Barista problem/out/production/classes/
+/Topics/Secondary constructor/Fabric manufacture/out/
+/Topics/Secondary constructor/Fabric manufacture/out/production/classes/
+/Topics/Standard output/From 0 to 9/out/
+/Topics/Standard output/From 0 to 9/out/production/classes/
+/Topics/String basics/Reverse a user-input string/out/
+/Topics/String basics/Reverse a user-input string/out/production/classes/
+/Topics/Type system/Reverse me if you can/out/
+/Topics/Type system/Reverse me if you can/out/production/classes/
